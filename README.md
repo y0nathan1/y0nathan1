@@ -59,7 +59,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=y0nathan1&show_icons=true&theme=tokyonight&hide_border=true)
 
-![](https://streak-stats.demolab.com?user=y0nathan1&theme=tokyonight&hide_border=true)
+![](https://github-readme-activity-graph.vercel.app/graph?username=y0nathan1&theme=tokyo-night&hide_border=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=y0nathan1&layout=compact&theme=tokyonight&hide_border=true)
 
