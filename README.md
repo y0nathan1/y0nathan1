@@ -1,6 +1,9 @@
 # 👋 Hi, I'm Yonathan 
 
-### 🚀 Full-Stack Web Developer | MERN Stack Developer | Tech Enthusiast
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Aspiring+MERN+Stack+Developer;Full-Stack+Web+Developer;React+%7C+Next.js+%7C+Node.js;Building+Modern+Web+Applications" />
+</p>
+
 
 ---
 
@@ -55,13 +58,17 @@
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
-![](https://github-readme-stats.vercel.app/api?username=y0nathan1&show_icons=true&theme=tokyonight&hide_border=true)
+<div align="center">
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=y0nathan1&theme=tokyo-night&hide_border=true)
+<img height="180em" src="https://github-readme-streak-stats-eight.vercel.app/?user=y0nathan1&theme=tokyonight&hide_border=true"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=y0nathan1&layout=compact&theme=tokyonight&hide_border=true)
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=y0nathan1&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
